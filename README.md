@@ -1,2 +1,2 @@
 # Neaural-Netwok-prject
-Deep learning project to calssify and test functionality of Hebbian Network
+Deep learning project to calssify and test functionality of Hebbian Network with **GUI**
